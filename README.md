@@ -1,3 +1,22 @@
+📌 CRUD App
+A simple CRUD (Create, Read, Update, Delete) application built using React.js. This app allows users to manage a list of items dynamically.
+
+🚀 Features
+✅ Create new items
+
+📄 Read and display a list of items
+
+✏️ Update existing items
+
+❌ Delete items
+
+🛠️ Tech Stack
+Frontend: React.js, JavaScript, CSS
+
+State Management: React useState Hook
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
